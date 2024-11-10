@@ -144,28 +144,20 @@ _Below is the complete instruction for running the program, locally. the program
 ## Usage
 ### SQL Table
 
-  <a href="https://github.com/BurlyCog/Hospital-Management-System">
-    <img src="images/SQL1.png" alt="Logo" width="80" height="80">
-  </a>
-  <a href="https://github.com/BurlyCog/Hospital-Management-System">
-    <img src="images/SQL1.png" alt="Logo" width="80" height="80">
-  </a>
-  <a href="https://github.com/BurlyCog/Hospital-Management-System">
-    <img src="images/SQL1.png" alt="Logo" width="80" height="80">
-  </a>
+ ![alt text](https://github.com/BurlyCog/Hospital-Management-System/blob/main/Images/SQL1.png)
+
+![alt text](https://github.com/BurlyCog/Hospital-Management-System/blob/main/Images/SQL1.png)
+
+![alt text](https://github.com/BurlyCog/Hospital-Management-System/blob/main/Images/SQL1.png)
 
   
 ### Main Interface
 
-  <a href="https://github.com/BurlyCog/Hospital-Management-System">
-    <img src="images/main1.png" alt="Logo" width="80" height="80">
-  </a>
-  <a href="https://github.com/BurlyCog/Hospital-Management-System">
-    <img src="images/main2.png" alt="Logo" width="80" height="80">
-  </a>  
-  <a href="https://github.com/BurlyCog/Hospital-Management-System">
-    <img src="images/main3.png" alt="Logo" width="80" height="80">
-  </a>
+![alt text](https://github.com/BurlyCog/Hospital-Management-System/blob/main/Images/main1.png)
+
+![alt text](https://github.com/BurlyCog/Hospital-Management-System/blob/main/Images/main2.png)
+
+![alt text](https://github.com/BurlyCog/Hospital-Management-System/blob/main/Images/main3.png)
 
   
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

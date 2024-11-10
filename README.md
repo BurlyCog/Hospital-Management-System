@@ -26,7 +26,7 @@
   <h3 align="center">Hospital Management system</h3>
 
   <p align="center">
-    A Hospital Database management program
+    A Database management program
     <br />
     <a href="https://github.com/BurlyCog/Hospital-Management-System"><strong>Explore the docs »</strong></a>
     <br />

@@ -18,12 +18,6 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -74,7 +68,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]]
+![alt text](https://github.com/BurlyCog/Hospital-Management-System/blob/main/Images/main1.png)
+
 Our Hospital Management System (HMS) is designed to streamline and enhance the process of managing
 doctor appointments, patient records, and other critical healthcare-related data. The system aims to
 provide an efficient, accurate, and easily accessible platform for storing and managing patient
@@ -132,9 +127,9 @@ _Below is the complete instruction for running the program, locally. the program
    ```
 3. Install Mysql
    ```sh
-   npm install
+   https://www.mysql.com/downloads/
    ```
-4. Create SQL table [sample](https://github.com/BurlyCog/Hospital-Management-System/blob/main/sample%20sql%20script)
+4. Create SQL [table](https://github.com/BurlyCog/Hospital-Management-System/blob/main/sample%20sql%20script)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -216,15 +211,7 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/BurlyCog/Hospital-Management-System/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/BurlyCog/Hospital-Management-System/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/BurlyCog/Hospital-Management-System/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com//BurlyCog/Hospital-Management-System/issues
-[product-screenshot]: images/screenshot.png
+
 [Next.js]: https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white
 [Next-url]: https://www.java.com/en/
 [React.js]: https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white

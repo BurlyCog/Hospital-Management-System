@@ -63,8 +63,8 @@
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">The Team</a></li> 
-    <li><a href="#contact">Contact</a></li>
+    <li><a href="#contributing">Contribute</a></li> 
+    <li><a href="#contact">The Team</a></li>
     <li><a href="#acknowledgments">References</a></li>
   </ol>
 </details>
@@ -127,9 +127,9 @@ This is an example of how to list things you need to use the software and how to
 _Below is the complete instruction for running the program, locally. the program includes a single java file. run te following instructions and run te program in an IDE, Eclippse is ideal._
 
 1. Java JDK 8 or Higher
-  ```sh
-  https://www.oracle.com/in/java/technologies/downloads/
-  ```
+   ```sh
+   https://www.oracle.com/in/java/technologies/downloads/
+   ```
 3. Install Mysql
    ```sh
    npm install
@@ -142,11 +142,32 @@ _Below is the complete instruction for running the program, locally. the program
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-### SQL TAble
+### SQL Table
+
   <a href="https://github.com/BurlyCog/Hospital-Management-System">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/SQL1.png" alt="Logo" width="80" height="80">
+  </a>
+  <a href="https://github.com/BurlyCog/Hospital-Management-System">
+    <img src="images/SQL1.png" alt="Logo" width="80" height="80">
+  </a>
+  <a href="https://github.com/BurlyCog/Hospital-Management-System">
+    <img src="images/SQL1.png" alt="Logo" width="80" height="80">
   </a>
 
+  
+### Main Interface
+
+  <a href="https://github.com/BurlyCog/Hospital-Management-System">
+    <img src="images/main1.png" alt="Logo" width="80" height="80">
+  </a>
+  <a href="https://github.com/BurlyCog/Hospital-Management-System">
+    <img src="images/main2.png" alt="Logo" width="80" height="80">
+  </a>  
+  <a href="https://github.com/BurlyCog/Hospital-Management-System">
+    <img src="images/main3.png" alt="Logo" width="80" height="80">
+  </a>
+
+  
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 

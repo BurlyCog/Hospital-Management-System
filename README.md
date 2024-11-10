@@ -22,7 +22,6 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
@@ -76,17 +75,20 @@
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]]
+Our Hospital Management System (HMS) is designed to streamline and enhance the process of managing
+doctor appointments, patient records, and other critical healthcare-related data. The system aims to
+provide an efficient, accurate, and easily accessible platform for storing and managing patient
+information, as well as tracking appointment schedules for healthcare professionals. 
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+Key Features Implemented:
+* User Interface (UI) and Graphical User Interface (GUI): The system boasts an intuitive and responsive user interface, designed with ease of use in mind. 
+* User Interface (UI) and Graphical User Interface (GUI): The system boasts an intuitive and responsive user interface, designed with ease of use in mind. 
+* Personal Details Recording: The system allows for comprehensive recording of personal details for each patient, including contact information, medical history, allergies, ongoing treatments, etc.
+* Data Synchronization: To ensure that patient data is always up-to-date and accessible across
+various platforms, we have incorporated automatic data synchronization capabilities. 
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
+End Goal:
+Our goal is to develop a reliable, scalable, and user-friendly system that can be easily implemented in various organizational settings, from healthcare institutions to colleges, corporate offices, and other organizations that require an appointment scheduling and record-keeping solution. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -94,7 +96,7 @@ Use the `BLANK_README.md` to get started.
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+List of major frameworks/libraries used to bootstrap our project.
 
 * [![Next-url][Next.js]][Next-url]
 * [![React][React.js]][React-url]
@@ -108,38 +110,31 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
+Instructions on setting up the project locally.
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+
+* Clone the repo
+   ```sh
+   https://github.com/BurlyCog/Hospital-Management-System.git
+   ```
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+_Below is the complete instruction for running the program, locally. the program includes a single java file. run te following instructions and run te program in an IDE, Eclippse is ideal._
 
-2. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-3. Install NPM packages
+1. Java JDK 8 or Higher
+  ```sh
+  https://www.oracle.com/in/java/technologies/downloads/
+  ```
+3. Install Mysql
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-5. Change git remote url to avoid accidental pushes to base project
-   ```sh
-   git remote set-url origin github_username/repo_name
-   git remote -v # confirm the changes
-   ```
+4. Create SQL table [sample](https://github.com/BurlyCog/Hospital-Management-System/blob/main/sample%20sql%20script)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -147,10 +142,10 @@ _Below is an example of how you can instruct your audience on installing and set
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-
+### SQL TAble
+  <a href="https://github.com/BurlyCog/Hospital-Management-System">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -173,28 +168,17 @@ See the [open issues](https://github.com/BurlyCog/Hospital-Management-System/iss
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 Don't forget to give the project a star! Thanks again!
 
 1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
+2. Create your Feature Branch
+3. Commit your Changes 
+4. Push to the Branch 
 5. Open a Pull Request
 
-### Top contributors:
-
-<a href="https://github.com/othneildrew/Best-README-Template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=othneildrew/Best-README-Template" alt="contrib.rocks image" />
-</a>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 <!-- CONTACT -->
-## Contact
+## Our Team
 
 Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
@@ -207,16 +191,11 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
+* [Swing Tutorial](https://www.youtube.com/watch?v=ZOK-DU7vT0A&pp=ygUZbWFsdmVuIGZlbHh2Ym94Y2hlYXRzaGVldA%3D%3D)
+* [JDBC Tutoraial](https://www.youtube.com/watch?v=7v2OnUti2eM&pp=ygUMdGVsdXNrbyBqZGJj)
+* [Java Documentation](https://docs.oracle.com/en/java/)
+* [Java swing-geeksforgeeks](https://www.geeksforgeeks.org/introduction-to-java-swing/)
+* [JDBC-geeksforgeeks](https://www.geeksforgeeks.org/establishing-jdbc-connection-in-java/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -225,17 +204,13 @@ Use this space to list resources you find helpful and would like to give credit 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
+[contributors-url]: https://github.com/BurlyCog/Hospital-Management-System/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
+[forks-url]: https://github.com/BurlyCog/Hospital-Management-System/network/members
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
+[stars-url]: https://github.com/BurlyCog/Hospital-Management-System/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[issues-url]: https://github.com//BurlyCog/Hospital-Management-System/issues
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white
 [Next-url]: https://www.java.com/en/
@@ -243,13 +218,4 @@ Use this space to list resources you find helpful and would like to give credit 
 [React-url]: https://www.mysql.com/
 [Vue.js]: https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white
 [Vue-url]: https://code.visualstudio.com/
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[Angular-url]: https://angular.io/
-[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[Svelte-url]: https://svelte.dev/
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[Laravel-url]: https://laravel.com
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
+
